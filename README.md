@@ -8,7 +8,8 @@ Seeking a challenging position in a technical organization that can provide me w
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kr.harsh13@gmail.com](mailto:kr.harsh13@gmail.com)
-* 🚀  I'm currently studying at [National Institute of Technology(NIT), Raipur](http://www.nitrr.ac.in/)
+* 🖥️  I'm currently working at [Yabx](http://https://yabx.co/) as a Software Engineer
+* 🚀  I'm alumnus of [National Institute of Technology(NIT), Raipur](http://www.nitrr.ac.in/)
 * 🧠  I'm learning NodeJS, ExpressJS, ReactJS, Python
 
 ### Skills
@@ -25,6 +26,9 @@ Seeking a challenging position in a technical organization that can provide me w
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+</p>
+<p align="left">
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
 </p>
 
 
