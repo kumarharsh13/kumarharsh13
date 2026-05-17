@@ -21,10 +21,8 @@ Senior Backend Engineer with 3+ years of experience designing and scaling distri
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kumarharsh13&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kumarharsh13&icon=5&color=13)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kumarharsh13&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
